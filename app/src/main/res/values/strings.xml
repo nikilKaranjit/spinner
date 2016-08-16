@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">spinnacha</string>
     <string name="action_settings">Settings</string>
-    <string name="username">Username</string>
+    <string name="username"></string>
     <string-array name="username">
         <item>Ram</item>
         <item>sam</item>
